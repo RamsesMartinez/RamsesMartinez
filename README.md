@@ -41,21 +41,13 @@
 
 ---
 
-## 🌟 Highlight Projects
-
-- 🔗 [**ramsesmartinez.github.io**](https://github.com/RamsesMartinez/ramsesmartinez.github.io) — My personal website.
-- 🔗 [**python-utils**](https://github.com/RamsesMartinez/python-utils) — Handy Python utilities.
-- 🔗 [**flask-boilerplate**](https://github.com/RamsesMartinez/flask-boilerplate) — A starter project for Flask applications.
-- 🔗 [**terraform-aws-examples**](https://github.com/RamsesMartinez/terraform-aws-examples) — Terraform examples for AWS (DevOps learning).
-
----
-
 ## 📫 Contact
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ramsesmartinez/)
-- ✉️ Email: (optional, if you want)
-- 📝 Blog/Portfolio: (optional, if you have one)
+- ✉️ [hola@ramsesmartinez.me](hola@ramsesmartinez.me)
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
+> _"When you share what you’ve learned, you get to learn it twice."_ — Jared Spool
+
+
