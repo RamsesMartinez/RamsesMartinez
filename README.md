@@ -41,6 +41,13 @@
 
 ---
 
+## 🌟 Highlight Projects
+
+- 🔗 [**django-k8s**](https://github.com/RamsesMartinez/python-utils) — Django cookiecutter deployed with kb8 and terraform
+- 🔗 [**El Gato Bobah POS**](https://github.com/RamsesMartinez/el-gato-bobah-pos) - A new POS initiative used in [El Gato Bobah](https://elgatobobah.com/)
+
+---
+
 ## 📫 Contact
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ramsesmartinez/)
